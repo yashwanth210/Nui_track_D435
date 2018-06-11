@@ -1,0 +1,33 @@
+﻿  Building Custom Rule C:/NuitrackSDK/Examples/nuitrack_console_sample/CMakeLists.txt
+  CMake does not need to re-run because C:/NuitrackSDK/Examples/nuitrack_console_sample/build/CMakeFiles/generate.stamp is up-to-date.
+  main.cpp
+c:\nuitracksdk\nuitrack\include\nuitrack\capi\depthsensor_capi.h(68): warning C4190: 'nuitrack_ConvertProjToRealCoordsXYZ' has C-linkage specified, but returns UDT 'tdv::nuitrack::Vector3' which is incompatible with C
+  c:\nuitracksdk\nuitrack\include\nuitrack\types\vector3.h(10): note: see declaration of 'tdv::nuitrack::Vector3'
+c:\nuitracksdk\nuitrack\include\nuitrack\capi\depthsensor_capi.h(69): warning C4190: 'nuitrack_ConvertProjToRealCoordsVector3' has C-linkage specified, but returns UDT 'tdv::nuitrack::Vector3' which is incompatible with C
+  c:\nuitracksdk\nuitrack\include\nuitrack\types\vector3.h(10): note: see declaration of 'tdv::nuitrack::Vector3'
+c:\nuitracksdk\nuitrack\include\nuitrack\capi\depthsensor_capi.h(71): warning C4190: 'nuitrack_ConvertRealToProjCoordsXYZ' has C-linkage specified, but returns UDT 'tdv::nuitrack::Vector3' which is incompatible with C
+  c:\nuitracksdk\nuitrack\include\nuitrack\types\vector3.h(10): note: see declaration of 'tdv::nuitrack::Vector3'
+c:\nuitracksdk\nuitrack\include\nuitrack\capi\depthsensor_capi.h(72): warning C4190: 'nuitrack_ConvertRealToProjCoordsVector3' has C-linkage specified, but returns UDT 'tdv::nuitrack::Vector3' which is incompatible with C
+  c:\nuitracksdk\nuitrack\include\nuitrack\types\vector3.h(10): note: see declaration of 'tdv::nuitrack::Vector3'
+c:\nuitracksdk\nuitrack\include\nuitrack\types\depthframe.h(34): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\nuitracksdk\nuitrack\include\nuitrack\types\depthframe.h(42): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\nuitracksdk\nuitrack\include\nuitrack\modules\depthsensor.h(177): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\nuitracksdk\nuitrack\include\nuitrack\types\rgbframe.h(35): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\nuitracksdk\nuitrack\include\nuitrack\types\rgbframe.h(43): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\nuitracksdk\nuitrack\include\nuitrack\types\userframe.h(57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\nuitracksdk\nuitrack\include\nuitrack\types\userframe.h(69): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\nuitracksdk\nuitrack\include\nuitrack\types\userframe.h(77): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\nuitracksdk\nuitrack\include\nuitrack\types\skeletondata.h(61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\nuitracksdk\nuitrack\include\nuitrack\types\skeletondata.h(67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\nuitracksdk\nuitrack\include\nuitrack\types\skeletondata.h(86): warning C4244: 'return': conversion from 'float' to 'uint64_t', possible loss of data
+c:\nuitracksdk\nuitrack\include\nuitrack\types\gesturedata.h(47): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\nuitracksdk\nuitrack\include\nuitrack\types\gesturedata.h(67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\nuitracksdk\nuitrack\include\nuitrack\types\gesturedata.h(102): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\nuitracksdk\nuitrack\include\nuitrack\types\gesturedata.h(133): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\nuitracksdk\nuitrack\include\nuitrack\types\handtrackerdata.h(48): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\nuitracksdk\nuitrack\include\nuitrack\types\handtrackerdata.h(69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\nuitracksdk\nuitrack\include\nuitrack\types\issue.h(71): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\nuitracksdk\nuitrack\include\nuitrack\types\issue.h(81): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+  nuitrack_console_sample.vcxproj -> C:\NuitrackSDK\Examples\nuitrack_console_sample\build\Debug\nuitrack_console_sample.exe

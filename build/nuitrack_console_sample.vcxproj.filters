@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\NuitrackSDK\Examples\nuitrack_console_sample\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\NuitrackSDK\Examples\nuitrack_console_sample\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B6FD5D0A-C0AD-3411-B1E1-24AE1BF5AABE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
